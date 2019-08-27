@@ -1,0 +1,7 @@
+[package]
+name = "rpi-mmal-rs"
+version = "0.0.1"
+authors = ["Steven Gu"]
+edition = "2018"
+
+[dependencies]
