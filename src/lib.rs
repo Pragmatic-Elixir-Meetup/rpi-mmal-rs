@@ -15,5 +15,6 @@ macro_rules! mmal_fourcc {
     }
 }
 
+pub const MMAL_ENCODING_H264: c_uint = mmal_fourcc!('H','2','6','4');
 pub const MMAL_ENCODING_I420: c_uint = mmal_fourcc!('I','4','2','0');
 pub const MMAL_ENCODING_OPAQUE: c_uint = mmal_fourcc!('O','P','Q','V');
