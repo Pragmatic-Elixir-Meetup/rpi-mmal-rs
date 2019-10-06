@@ -16,8 +16,6 @@ fn main() {
         .clang_arg("-I/usr/arm-linux-gnueabihf/include/")
         .clang_arg("-I/usr/lib/gcc/arm-linux-gnueabihf/4.6/include-fixed/")
         .clang_arg("-I/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/")
-        .clang_arg("-nobuiltininc")
-        .clang_arg("-nostdinc++")
         .header("vendor/include/wrapper.h")
         .generate()
         .expect("Unable to generate bindings");
