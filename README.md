@@ -12,6 +12,15 @@ This project is low-level and simple binding for using RPI camera. You could use
 [rpi-video-rs](https://github.com/silathdiir/rpi-video-rs) simply for H264 video
 record.
 
+## Usage
+
+Add the following to your `Cargo.toml`:
+
+```toml
+[dependencies]
+rpi-mmal-rs = "0.0.2"
+```
+
 ## Development
 
 Since this project sets the default target to `arm-unknown-linux-gnueabihf`.
