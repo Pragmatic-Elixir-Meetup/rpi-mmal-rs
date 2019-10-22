@@ -1,6 +1,6 @@
 [package]
 name = "rpi-mmal-rs"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Steven Gu <asongala@163.com>"]
 license = "MIT"
 description = "Rust binding for `mmal` library of Raspberry Pi"
