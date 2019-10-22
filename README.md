@@ -29,5 +29,4 @@ rustup target add armv7-unknown-linux-gnueabihf
 
 ## TODO
 
-1. Publishes as a Rust crate.
 1. Integrates with a CI for testing successful compilation.
