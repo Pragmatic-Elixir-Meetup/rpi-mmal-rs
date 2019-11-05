@@ -245,7 +245,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "rpi-mmal-rs"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
  "bindgen 0.50.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "libc 0.2.62 (registry+https://github.com/rust-lang/crates.io-index)",
