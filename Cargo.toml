@@ -1,12 +1,12 @@
 [package]
 name = "rpi-mmal-rs"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Steven Gu <asongala@163.com>"]
 license = "MIT"
 description = "Rust binding for `mmal` library of Raspberry Pi"
-homepage = "https://github.com/silathdiir/rpi-mmal-rs"
-documentation = "https://github.com/silathdiir/rpi-mmal-rs"
-repository = "https://github.com/silathdiir/rpi-mmal-rs"
+homepage = "https://github.com/Pragmatic-Elixir-Meetup/rpi-mmal-rs"
+documentation = "https://github.com/Pragmatic-Elixir-Meetup/rpi-mmal-rs"
+repository = "https://github.com/Pragmatic-Elixir-Meetup/rpi-mmal-rs"
 edition = "2018"
 exclude = ["tools/*"]
 
